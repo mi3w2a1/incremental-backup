@@ -1,0 +1,30 @@
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\bin\Debug\IncrementalBackup.exe.config
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\bin\Debug\IncrementalBackup.exe
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\bin\Debug\IncrementalBackup.pdb
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.csproj.AssemblyReference.cache
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.csproj.SuggestedBindingRedirects.cache
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.Form1.resources
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.Properties.Resources.resources
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.csproj.GenerateResource.cache
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.csproj.CoreCompileInputs.cache
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.exe
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.pdb
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.FormFolder.resources
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.FormRestore.resources
+C:\Users\kj\Desktop\新しいフォルダー (2)\IncrementalBackup\obj\Debug\IncrementalBackup.FormBackupProgress.resources
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\bin\Debug\IncrementalBackup.exe.config
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\bin\Debug\IncrementalBackup.exe
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\bin\Debug\IncrementalBackup.pdb
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.csproj.AssemblyReference.cache
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.csproj.SuggestedBindingRedirects.cache
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.Form1.resources
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.FormBackupProgress.resources
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.FormFolder.resources
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.FormRestore.resources
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.Properties.Resources.resources
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.csproj.GenerateResource.cache
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.csproj.CoreCompileInputs.cache
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.exe
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.pdb
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.FormRestoreProgress.resources
+Z:\_DocData\VS-Source\CS\実用的なもの\IncrementalBackup\obj\Debug\IncrementalBackup.FormPartRestore.resources
